@@ -1,0 +1,11 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\bin\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\bin\Debug\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\bin\Debug\WebSocket4Net.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideo Backdrops.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops.pdb

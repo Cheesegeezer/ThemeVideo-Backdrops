@@ -1,0 +1,9 @@
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\bin\Release\MediaBackdrops.dll
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\bin\Release\MediaBackdrops.pdb
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\ResolveAssemblyReference.cache
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\Configuration\PluginConfigurator.baml
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\Configuration\PluginConfigurator.g.cs
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\MediaBackdrops_MarkupCompile.cache
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\MediaBackdrops.g.resources
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\MediaBackdrops.dll
+D:\Others\Development\MediaBrowser\Plugins\MediaBackdrops\obj\Release\MediaBackdrops.pdb

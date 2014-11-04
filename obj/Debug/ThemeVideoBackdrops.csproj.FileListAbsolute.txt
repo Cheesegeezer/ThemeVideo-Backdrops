@@ -1,0 +1,24 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\bin\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\bin\Debug\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\MediaBackdrops\obj\Debug\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Debug\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Debug\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Debug\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Debug\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\bin\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\bin\Debug\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Debug\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\bin\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\bin\Debug\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Debug\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Debug\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Debug\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Debug\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Debug\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Debug\ThemeVideoBackdrops.pdb

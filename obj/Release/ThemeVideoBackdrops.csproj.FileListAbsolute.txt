@@ -1,0 +1,76 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\bin\Release\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\bin\Release\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Release\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Release\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Release\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Release\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Release\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops - Broken\obj\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\MediaBrowser.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\MediaBrowser.Model.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\Newtonsoft.Json.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\WebSocket4Net.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\bin\Release\MediaBrowser.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csprojResolveAssemblyReference.cache
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.baml
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.g.cs
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops_MarkupCompile.cache
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.g.resources
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.2\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\MediaBrowser.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\MediaBrowser.Model.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\Newtonsoft.Json.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\WebSocket4Net.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\bin\Release\MediaBrowser.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csprojResolveAssemblyReference.cache
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.baml
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.g.cs
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops_MarkupCompile.cache
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.g.resources
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - ThemeMusic\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\MediaBrowser.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\MediaBrowser.Model.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\Newtonsoft.Json.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\WebSocket4Net.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\bin\Release\MediaBrowser.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csprojResolveAssemblyReference.cache
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.baml
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.g.cs
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops_MarkupCompile.cache
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.g.resources
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.dll
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.pdb
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.Configuration.PluginConfigurator2.resources
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.Properties.Resources.resources
+D:\VS 2012 Projects\Master Copies\ThemeVideo Backdrops_V1.0.0.5 - Fixed Trailers\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.Configuration.PluginConfigurator2.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.dll.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\bin\Release\ThemeVideoBackdrops.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\bin\Release\MediaBrowser.Model.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\Configuration\PluginConfigurator.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.Configuration.PluginConfigurator2.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\ThemeVideo Backdrops\obj\Release\ThemeVideoBackdrops.pdb
